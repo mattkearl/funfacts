@@ -1,188 +1,221 @@
 [
     {
+        "ID": 1,
         "Fact": "Banging your head against a wall for one hour burns 150 calories.",
         "Image": "https://images.unsplash.com/photo-1510017803434-a899398421b3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80",
         "Explanation": "Alternatively, you can walk your dog for 45 minutes, which also burns 150 calories – and is much less painful."
     },
 
     {
+        "ID": 2,
         "Fact": "In Switzerland it is illegal to own just one guinea pig.",
         "Image": "https://images.unsplash.com/photo-1530122037265-a5f1f91d3b99?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
         "Explanation": "This is because guinea pigs are social animals, and they are considered victims of abuse if they are alone. Why isn’t this a law everywhere?!"
     },
 
     {
+        "ID": 3,
         "Fact": "Pteronophobia is the fear of being tickled by feathers.",
         "Image": "https://images.unsplash.com/photo-1421944086326-0c7cce744bad?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
         "Explanation": "It’s also a fear of feathers themselves. The word “ptero” is the Greek word for feather, and “phobia” is also Greek, meaning fear."
     },
     {
+        "ID": 4,
         "Fact": "Snakes can help predict earthquakes.",
         "Image": "https://images.unsplash.com/photo-1571391733814-15ac29ac3544?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1652&q=80",
         "Explanation": "They can sense a coming earthquake from 75 miles away (121 km), up to five days before it happens."
     },
 
     {
+        "ID": 5,
         "Fact": "Crows can hold grudges against specific individual people.",
         "Image": "https://images.unsplash.com/photo-1544239051-59e55f169de5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=948&q=80",
         "Explanation": "Crows can very easily distinguish humans apart from each other, whereas humans find it nearly impossible to tell crows apart."
     },
 
     {
+        "ID": 6,
         "Fact": "The oldest “your mom” joke was discovered on a 3,500 year old Babylonian tablet.",
         "Image": "https://www.thefactsite.com/wp-content/uploads/2019/12/oldest-your-mom-joke-fun-fact.jpg",
         "Explanation": "It was discovered in Iraq in 1976, however since then the tablet has been lost, but the text remains preserved."
     },
     {
+        "ID": 7,
         "Fact": "So far, two diseases have successfully been eradicated: smallpox and rinderpest.",
         "Image": "https://images.unsplash.com/photo-1583324113626-70df0f4deaab?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1489&q=80",
         "Explanation": "The last naturally occurring case of smallpox was diagnosed in October 1977, and the last case of rinderpest was diagnosed in 2001."
     },
 
     {
+        "ID": 8,
         "Fact": "During your lifetime, you will produce enough saliva to fill two swimming pools.",
         "Image": "https://images.unsplash.com/photo-1575429198097-0414ec08e8cd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
         "Explanation": "An average human produces between 1 to 2 liters of saliva each day, which is a maximum of 730 liters per year. The average life expectancy is just over 70 years, which gives a maximum of 51,100 liters of saliva produced in an average lifetime. This is more than enough to fill two swimming pools."
     },
 
     {
+        "ID": 9,
         "Fact": "Enceladus, one of Saturn’s smaller moons, reflects 90% of the Sun’s light.",
         "Image": "https://www.thefactsite.com/wp-content/uploads/2019/04/5-enceladus-reflects-90-percent-light.jpg",
         "Explanation": "Because Enceladus’ icy surface reflects sunlight rather than absorbing it, temperatures reach as low as -394° Fahrenheit (-201° Celsius)."
     },
     {
+        "ID": 10,
         "Fact": "The highest mountain discovered is the Olympus Mons, which is located on Mars.",
         "Image": "https://www.thefactsite.com/wp-content/uploads/2019/04/6-olympus-mons-height-compared-to-everest.jpg",
         "Explanation": "Its peak is 16 miles (25 km) high, making it nearly 3 times higher than Mount Everest. And not only is it tall, but it’s also 374,015 ft² (114,000 m²) wide – that’s an area the size of Arizona!"
     },
 
     {
+        "ID": 11,
         "Fact": "The Whirlpool Galaxy (M51) was the first celestial object identified as being spiral.",
         "Image": "https://www.thefactsite.com/wp-content/uploads/2019/04/7-whirlpool-galaxy-m51-spiral.jpg",
         "Explanation": "The grand, spiraling arms of the Whirlpool Galaxy are made up of long lanes of stars and gas, sprinkled with lots of space dust. These arms act as star formation factories, compressing hydrogen gas and creating clusters of new stars."
     },
 
     {
+        "ID": 12,
         "Fact": "Because of lower gravity, a person who weighs 220 lbs on Earth would weigh 84 lbs on Mars.",
         "Image": "https://www.thefactsite.com/wp-content/uploads/2019/04/12-weight-of-person-on-mars.jpg",
         "Explanation": "When sending droids to the surface of Mars, this is something scientists plan for, being able to load the droid up with more equipment and build it from more robust materials."
     },
     {
+        "ID": 13,
         "Fact": "The first Apple logo isn’t what you would think.",
         "Image": "https://www.thefactsite.com/wp-content/uploads/2019/12/original-apple-logo-1.jpg",
         "Explanation": "Originally, it featured Sir Isaac Newton sitting beneath a tree, with an apple about to fall on his head. It was designed back in 1976 and featured a phrase around the border which read “Newton…A mind forever voyaging through strange seas of thought…alone”. Seems kind of dark!"
     },
 
     {
+        "ID": 14,
         "Fact": "The first ever VCR was the size of a piano.",
         "Image": "https://www.thefactsite.com/wp-content/uploads/2019/12/original-vcr-1.jpg",
         "Explanation": "When the first VCR (Video Camera Recorder) was made in 1956, it was the size of a piano. Way bigger than I would have guessed!"
     },
 
     {
+        "ID": 15,
         "Fact": "A Petabyte is a lot of data.",
         "Image": "https://www.thefactsite.com/wp-content/uploads/2019/12/petrabyte.jpg",
         "Explanation": "We all know 1 GB is the same 1024 MB, but did you know that 1 petabyte (PB) is equivalent to 1024 terabytes (TB)? To give an example of how big this is, a 1 PB hard drive could hold 13.3 years of HD-TV video. A 50 PB hard drive could hold the entire written works of mankind, from the beginning of recorded history, in all languages."
     },
     {
+        "ID": 16,
         "Fact": "Megabytes used to weigh hundreds of pounds.",
         "Image": "https://www.thefactsite.com/wp-content/uploads/2019/12/megabyte.jpg",
         "Explanation": "More specifically, 5 megabytes of data weighed one ton. In 1956, the first computer had something similar to a hard drive. At the time, it was a huge leap in storage capabilities, but the cabinet that contained the hard drive weighed over 2,200 pounds and could hold 5 MBs of data."
     },
 
     {
+        "ID": 17,
         "Fact": "The first computer mouse wasn’t made from plastic.",
         "Image": "https://www.thefactsite.com/wp-content/uploads/2019/12/first-computer-mouse.jpg",
         "Explanation": "Back in 1964, Doug Engelbart invented the first ever computer mouse! Back then, it was made out of wood. It was rectangular and featured a little button on the top right. He called it a mouse because the cord coming out of the back reminded him of the tiny rodents."
     },
 
     {
+        "ID": 18, 
         "Fact": "The original Xbox had sound snippets of real space missions.",
         "Image": "https://www.thefactsite.com/wp-content/uploads/2019/12/original-xbox-apollo.jpg",
         "Explanation": "The original Xbox contained edited sound bites from actual transmissions from the Apollo missions. If you left the Xbox on the home screen, eventually you’ll hear whispers of conversation – actual chatter from the Apollo mission."
     },
     {
+        "ID": 19,
         "Fact": "The majority of the people plug in their USB wrong.",
         "Image": "https://www.thefactsite.com/wp-content/uploads/2019/12/usb-plug-upside-down.jpg",
         "Explanation": "86% of people try to plus in their USB devices upside down. That makes me feel a lot better about getting it wrong every time!"
     },
 
     {
+        "ID": 20,
         "Fact": "The government used PlayStation 3’s… but not for gaming.",
         "Image": "https://www.thefactsite.com/wp-content/uploads/2019/12/playstation-three.jpg",
         "Explanation": "In 2010, the United States Air Force used 1,760 PlayStation 3 consoles to build a supercomputer for the Department of Defense. They used PS3’s because it was more cost efficient and “green.”"
     },
 
     {
+        "ID": 21,
         "Fact": "The first product scanned was a packet of chewing gum in 1974.",
         "Image": "https://www.thefactsite.com/wp-content/uploads/2019/12/chewing-gum.jpg",
         "Explanation": "Norman Joseph Woodland invented the barcode, and received a patent in October 1952. It wasn’t until 22 years later, when he was employed by IBM that the barcode was developed to be used for product labeling. Known as the Universal Product Code (UPC), a system that is still used today."
     },
     {
+        "ID": 22,
         "Fact": "People are still using dial up.",
         "Image": "https://www.thefactsite.com/wp-content/uploads/2019/12/dial-up-users.jpg",
         "Explanation": "As of 2017, 2.1 million people still use AOL’s dial up service. Mainly, these customers live in rural America where it can be expensive and unreliable to get high-speed internet. Meanwhile, dial up is only $20 per month."
     },
 
     {
+        "ID": 23,
         "Fact": "The first word to ever be auto-corrected was “teh.”",
         "Image": "https://www.thefactsite.com/wp-content/uploads/2016/05/autocorrect-facts.jpg",
         "Explanation": "Back in the day, autocorrect wasn’t as efficient as it is now. In order to auto-correct “teh” to “the,” you had to press the left arrow and F3."
     },
 
     {
+        "ID": 24,
         "Fact": "Google searches hit the billions every month.",
         "Image": "https://www.thefactsite.com/wp-content/uploads/2019/12/google-search.jpg",
         "Explanation": "There are over 35 billion Google searches each month. In May 2019, the top three most Googled words were “facebook” at 233 million searches, “youtube” with 194 million searches, and “amazon” with 103 million searches."
     },
     {
+        "ID": 25,
         "Fact": "Smoking will void your Apple warranty.",
         "Image": "https://www.thefactsite.com/wp-content/uploads/2019/12/smoking-at-computer.jpg",
         "Explanation": "Apple has a “smoking” ban on their computers, meaning if you smoke while using any Apple computer, the warranty becomes void."
     },
 
     {
+        "ID": 26,
         "Fact": "Googles first tweet was gibberish.",
         "Image": "https://www.thefactsite.com/wp-content/uploads/2019/12/google-twitter.jpg",
         "Explanation": "To a normal human, Google’s first ever tweet on Twitter was nonsense! It reads, “I’m 01100110 01100101 01100101 01101100 01101001 01101110 01100111 00100000 01101100 01110101 01100011 01101011 01111001 00001010”. Translated from binary to English, this tweet says “I’m feeling lucky.”"
     },
 
     {
+        "ID": 27,
         "Fact": "The first cell phone call was in New York City.",
         "Image": "https://www.thefactsite.com/wp-content/uploads/2019/12/new-york.jpg",
         "Explanation": "n 1973, the first ever mobile phone call was made by Martin Cooper, an employee of Motorola, made from the streets of New York City. It wasn’t until 19 years later when Neil Papworth sent the first SMS message."
     },
     {
+        "ID": 28,
         "Fact": "Over 6,000 new computer viruses are created and released every month.",
         "Image": "https://www.thefactsite.com/wp-content/uploads/2019/12/computer-virus.jpg",
         "Explanation": "This number has drastically risen since 1990, at which point there were only 50 known computer viruses. Today, 90% of emails contain some form of malware and most people don’t know about it."
     },
 
     {
+        "ID": 29,
         "Fact": "NASA’s internet speed is 91 GB per second.",
         "Image": "https://www.thefactsite.com/wp-content/uploads/2017/09/nasa-wifi.jpg",
         "Explanation": "The average household internet speeds are roughly 25 MB per second. That’s usually fast enough to watch Netflix with no buffer time. And let’s face the fact, if there’s any tech company that would actually make good use of them internet speeds, it’s NASA."
     },
 
     {
+        "ID": 30,
         "Fact": "The most expensive phone number cost millions.",
         "Image": "https://www.thefactsite.com/wp-content/uploads/2019/12/expensive-phone.jpg",
         "Explanation": "Back in 2006, Qatar Telecom hosted a charity auction where they sold the phone number 666-6666.It sold for $2.75 million, bought by an anonymous bidder."
 
     },
     {
+        "ID": 31,
         "Fact": "The QWERTY keyboard was originally designed to slow you down.",
         "Image": "https://www.thefactsite.com/wp-content/uploads/2019/12/qwerty-keyboard.jpg",
         "Explanation": "When typewriters were introduced, typing too fast would jam the keys. Using a QWERTY keyboard spaced out commonly used characters to slow typists down and prevent jamming. If you wanted to learn a more efficient keyboard, Dvorak is made for speed. While we’re on the subject of keyboards and typing, did you know that on a typical work day, a typists’ fingers will “travel” about 12.6 miles."
     },
 
     {
+        "ID": 32,
         "Fact": "The most expensive pizza in the world costs $12,000 dollars.",
         "Image": "https://www.thefactsite.com/wp-content/uploads/2019/12/most-expensive-pizza.jpg",
         "Explanation": "That’s because it takes 72 hours to make, and it can only be made in your home by 3 Italian chefs. The pizza is topped with 3 types of caviar, bufala mozzarella, lobster from Norway and Cilento, and pink Australian sea salt."
     },
 
     {
+        "ID": 33,
         "Fact": "One fast food burger can have meat from 100 different cows.",
         "Image": "https://www.thefactsite.com/wp-content/uploads/2019/12/fast-food-burger-meat.jpg",
         "Explanation": "It sounds like a crazy amount, but the ground beef used to make burgers, both in fast food places and grocery stores, is made of a collection of muscle tissues."
