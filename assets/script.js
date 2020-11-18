@@ -14,6 +14,7 @@
 var funFacts = fetch("./facts.json")
     .then((res) => res.json())
     .then((data) => {
+        // localStorage.setItem("ID", data.ID);
         var randomindex = Math.floor(Math.random() * data.length);
         var p = (document.querySelector("#funfact").innerHTML =
             data[randomindex].Fact);
@@ -22,4 +23,8 @@ var funFacts = fetch("./facts.json")
         console.log(data[randomindex].Fact);
         var randomimg = data[randomindex].Image;
         document.body.style.backgroundImage = `url(${randomimg})`;
+        var storageID = localStorage.getItem("ID")
+        if (storageID = data.ID) {
+            newFact()
+        }
     });
