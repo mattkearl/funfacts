@@ -27,10 +27,7 @@ var funFacts = fetch("./facts.json")
             id = data[newrandomindex].ID;
             randomindex = newrandomindex;
         }
-
-        // what if we add a new value to the facts.json objects like 'seen: false' and then when we pull it up here, we set it to true and then only display ones that have seen:false
-        // then we wouldn't have to deal with local storage
-
+        
         var p = (document.querySelector("#funfact").innerHTML =
             data[randomindex].Fact); 
         var desc = (document.querySelector("#description").innerHTML =

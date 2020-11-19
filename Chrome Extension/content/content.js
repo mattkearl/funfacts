@@ -23,6 +23,17 @@ function retrieveFunFacts(){
         var funfacts = response.data
         console.log(funfacts)
         var randomIndex = Math.floor(Math.random() * funfacts.length);
+
+        var id = data[randomindex].ID;
+        var idsList = ; //list of past ids from local storage
+
+
+        while ( idsList.includes(id) ) {
+            var newrandomindex = Math.floor(Math.random() * data.length);
+            id = data[newrandomindex].ID;
+            randomindex = newrandomindex;
+        }
+
         document.querySelector("#funfact").innerHTML = funfacts[randomIndex].fact;
         document.querySelector("#description").innerHTML = funfacts[randomIndex].explanation;
         document.body.style.backgroundImage = `url(${funfacts[randomIndex].image})`;
