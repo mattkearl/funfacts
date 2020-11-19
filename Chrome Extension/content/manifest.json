@@ -1,0 +1,19 @@
+{
+    "manifest_version": 2,
+    "name": "FunFact v2",
+    "version": "0.0.2",
+    "description": "Get a fun random fact every time you open a new tab. FunFacts replaces your new tab with a screen showing a fun random fact and an accompanying image. Features: Fun Fact, Image, Google Search Bar",
+    "chrome_url_overrides": {
+        "newtab": "index.html"
+    },
+    "icons":{
+        "16": "funFacts16-01.png",
+        "48": "funFacts48-01.png",
+        "128": "funFacts128-03.png"
+    },
+    "background":{
+        "page" : "background.html",
+        "persistent": false
+    },
+    "content_security_policy": "script-src 'self' https://www.gstatic.com/ https://*.firebaseio.com https://www.googleapis.com; object-src 'self'"
+}

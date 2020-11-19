@@ -219,6 +219,13 @@
         "Fact": "One fast food burger can have meat from 100 different cows.",
         "Image": "https://www.thefactsite.com/wp-content/uploads/2019/12/fast-food-burger-meat.jpg",
         "Explanation": "It sounds like a crazy amount, but the ground beef used to make burgers, both in fast food places and grocery stores, is made of a collection of muscle tissues."
+    },
+    
+    {
+        "ID": 34,
+        "Fact": "Nutmeg is a hallucinogen.",
+        "Image": "https://www.thefactsite.com/wp-content/uploads/2019/12/nutmeg-hallucinogen.jpg",
+        "Explanation": "If you ingest nutmeg in large doses, it works like a hallucinogen due to a natural compound in it called myristicin. It has mind-altering effects if taken in large doses."
     }
 
 ]
