@@ -29,3 +29,26 @@ function retrieveFunFacts(){
     })
 }
 retrieveFunFacts()
+
+
+//Need to add a localStorage.setItem() in the above function
+
+
+// function allStorage() {
+
+//     var archive = [],
+//         keys = Object.keys(localStorage),
+//         i = 0, key;
+
+//     for (; key = keys[i]; i++) {
+//         archive.push( key + '=' + localStorage.getItem(key));
+//     }
+
+//     document.getElementById("").innerHTML = archive;
+//     console.log(archive)
+//     var count = 0
+//     var id = localStorage.getItem("Id" + (count += 1));
+//     if (data[randomIndex].id == id){
+//         getNewFact()
+//     }
+// }
