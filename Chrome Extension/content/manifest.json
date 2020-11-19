@@ -1,0 +1,14 @@
+{
+    "manifest_version": 2,
+    "name": "FunFact v2",
+    "version": "0.0.2",
+    "description": "Description",
+    "chrome_url_overrides": {
+        "newtab": "index.html"
+    },
+    "background":{
+        "page" : "background.html",
+        "persistent": false
+    },
+    "content_security_policy": "script-src 'self' https://www.gstatic.com/ https://*.firebaseio.com https://www.googleapis.com; object-src 'self'"
+}
