@@ -22,7 +22,7 @@ function retrieveFunFacts(){
     chrome.runtime.sendMessage({command: "fetch", data: {}}, response =>{
         var funfacts = response.data
         console.log(funfacts)
-        var randomIndex = Math.floor(Math.random()) * funfacts.length;
+        var randomIndex = Math.floor(Math.random() * funfacts.length);
         document.querySelector("#funfact").innerHTML = funfacts[randomIndex].fact;
         document.querySelector("#description").innerHTML = funfacts[randomIndex].explanation;
         document.body.style.backgroundImage = `url(${funfacts[randomIndex].image})`;
