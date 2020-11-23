@@ -7,8 +7,20 @@
         <link rel="stylesheet" href="./style.css" />
     </head>
     <body id="bkgd">
-        <p id="funfact"></p>
-        <p id="description"></p>
+        
+        <form action="http://www.google.com/search" method="GET">
+            <input class="searchBar" type="text" name="q" placeholder="Search Google or type a URL">
+            <input class="searchButton" type="submit" value="Search">
+        </form>
+        
+        <div id = "entireFact">
+            <p id="funfact"></p>
+            <p id="description"></p>
+        </div>  
+
+        <div id = "theCircle"></div>
+
+        
 
         <script src="./content.js"></script>
     </body>

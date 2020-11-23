@@ -11,7 +11,7 @@
   // Initialize Firebase
   firebase.initializeApp(firebaseConfig);
 
-  console.log(firebase)
+  console.log("firebase data: ", firebase)
 
 chrome.runtime.onMessage.addListener((msg, sender, res)=>{
     if(msg.command == "fetch"){

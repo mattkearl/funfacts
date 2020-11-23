@@ -1,8 +1,86 @@
 body {
+
+    display:grid;
+    grid-template-columns: repeat(14,minmax(0,1fr));
+    grid-auto-rows: minmax(0,auto);
+
+
     margin: 0;
     padding: 0;
 
     width: 100vw;
     background-size: cover;
     background-repeat: no-repeat;
+    
+}
+
+#entireFact {
+    grid-column: 4/10;
+    grid-row: auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    font-size: 2rem; 
+
+    position: relative;
+    top: 12%;
+    z-index: -1;
+
+    background-color: rgba(0, 0, 0, 0.685);
+    padding: 10rem;
+    border-radius: 50%;
+    width: 45%;
+    height: 40%;
+       
+}
+
+#description {
+    grid-column: 4/8;
+    grid-row: auto;
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    font-size: 1rem;
+    
+}
+
+/*#theCircle{
+    grid-column: 4/8;
+    grid-row: auto;
+    padding: 50px;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    background-color: black;
+}*/
+
+form{
+    grid-column: 7/14;
+    grid-row: auto;
+
+    position: relative;
+    top: 16rem;
+
+    
+    display: grid;
+    grid-template-columns: repeat(6,minmax(0,1fr));
+    grid-auto-rows: minmax(0,auto);
+}
+
+.searchBar{
+    grid-column:1/5;
+    grid-row: auto;
+
+    border-radius: 3rem;
+    padding: .75rem;
+    border-color: white;
+}
+
+.searchButton{
+    grid-column:5/6;
+    grid-row: auto;
+    margin-left: .5rem;
+
+    border-radius: 1rem;
+    border-color: white;
+
 }
