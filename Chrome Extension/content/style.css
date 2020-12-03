@@ -68,6 +68,19 @@ body {
     
 }
 
+#learnMore{
+    font-size: 1rem;
+   
+
+    cursor: pointer;
+}
+
+#learnMore:hover{
+    color: orange;
+}
+
+
+
 /* #theCircle{
     grid-column: 4/8;
     grid-row: auto;
