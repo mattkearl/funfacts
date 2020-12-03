@@ -14,12 +14,29 @@
 var funFacts = fetch("./facts.json")
     .then((res) => res.json())
     .then((data) => {
+        //give the ID to local storage so it can see it
+        //localStorage.setItem("ID: ", data.ID); // IDs in fact.json now
+
+
         var randomindex = Math.floor(Math.random() * data.length);
+        var id = data[randomindex].ID;
+        var idsList = ; //list of past ids from local storage
+
+        while ( idsList.includes(id) ) {
+            var newrandomindex = Math.floor(Math.random() * data.length);
+            id = data[newrandomindex].ID;
+            randomindex = newrandomindex;
+        }
+        
         var p = (document.querySelector("#funfact").innerHTML =
-            data[randomindex].Fact);
+            data[randomindex].Fact); 
         var desc = (document.querySelector("#description").innerHTML =
             data[randomindex].Explanation);
         console.log(data[randomindex].Fact);
         var randomimg = data[randomindex].Image;
         document.body.style.backgroundImage = `url(${randomimg})`;
+        var storageID = localStorage.getItem("ID")
+        if (storageID = data.ID) {
+            newFact()
+        }
     });

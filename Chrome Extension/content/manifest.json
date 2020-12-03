@@ -1,8 +1,8 @@
 {
     "manifest_version": 2,
-    "name": "FunFact v2",
+    "name": "FunFacts",
     "version": "0.0.2",
-    "description": "Get a fun random fact every time you open a new tab. FunFacts replaces your new tab with a screen showing a fun random fact and an accompanying image. Features: Fun Fact, Image, Google Search Bar",
+    "description": "Fun random facts about history, technology, science, culture, and more, with pictures! Features: Fun Fact, Image, Google Search Bar",
     "chrome_url_overrides": {
         "newtab": "index.html"
     },
