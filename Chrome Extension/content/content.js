@@ -18,37 +18,81 @@
 [ ] Display the data we got from response
 */
 
+
 function retrieveFunFacts(){
     chrome.runtime.sendMessage({command: "fetch", data: {}}, response =>{
-        var funfacts = response.data
-        console.log(funfacts)
-        var randomIndex = Math.floor(Math.random() * funfacts.length);
-        document.querySelector("#funfact").innerHTML = funfacts[randomIndex].fact;
-        document.querySelector("#description").innerHTML = funfacts[randomIndex].explanation;
-        document.body.style.backgroundImage = `url(${funfacts[randomIndex].image})`;
+        var funfacts = response.data;
+        console.log("funfacts: ", funfacts)
+
+        var archive = allStorage();
+        console.log("archive: ", archive);
+
+        if ( archive.length > 32 ) {
+            localStorage.clear();
+        }
+
+        var randomindex = Math.floor(Math.random() * funfacts.length);
+
+        var funfactid = String(funfacts[randomindex].id);
+        console.log("stringID: ", funfactid);
+
+        while ( archive.includes(funfactid) ) {
+            console.log("repeat id: ", randomindex)
+            randomindex = Math.floor(Math.random() * funfacts.length);
+            funfactid = String(funfacts[randomindex].id);
+            console.log("try id:", randomindex);
+        }
+
+        localStorage.setItem("ID: " + (randomindex + 1), funfacts[randomindex].id); // works
+
+        document.querySelector("#funfact").innerHTML = funfacts[randomindex].fact;
+        document.querySelector("#description").innerHTML = funfacts[randomindex].explanation;
+        document.body.style.backgroundImage = `url(${funfacts[randomindex].image})`;
     })
 }
+
+function allStorage() {
+    
+    var archive = [],
+    keys = Object.keys(localStorage),
+    i = 0, key;
+    
+    for (; key = keys[i]; i++) {
+        archive.push(localStorage.getItem(key));
+    } // just get the list of value IDs
+    
+    return archive; 
+}
+
+function learnMore() {
+    var fact = document.getElementById("funfact").innerHTML;
+    console.log(fact)
+    document.getElementById("searchBar").setAttribute('value', fact);
+    document.getElementById("searchBar").focus()
+    var input = document.getElementById("searchBar")
+    var val = input.value;
+    input.value = '';
+    input.value = val;
+    document.getElementById("searchButton").click()
+    
+    
+}
+
+function openTab() {
+    var search = document.getElementById("searchBar");
+    
+    search.addEventListener("keyup", function(event) {
+        if (event.keyCode === 13) {
+            event.preventDefault();
+            document.getElementById("searchBar").click();
+        }
+        var url = "https://www.google.com/search?q=";
+        var query = document.getElementById("funfact").innerHTML;
+        var res = encodeURI(query);
+        window.open(url+res);
+    });
+    
+
+}
+
 retrieveFunFacts()
-
-
-//Need to add a localStorage.setItem() in the above function
-
-
-// function allStorage() {
-
-//     var archive = [],
-//         keys = Object.keys(localStorage),
-//         i = 0, key;
-
-//     for (; key = keys[i]; i++) {
-//         archive.push( key + '=' + localStorage.getItem(key));
-//     }
-
-//     document.getElementById("").innerHTML = archive;
-//     console.log(archive)
-//     var count = 0
-//     var id = localStorage.getItem("Id" + (count += 1));
-//     if (data[randomIndex].id == id){
-//         getNewFact()
-//     }
-// }

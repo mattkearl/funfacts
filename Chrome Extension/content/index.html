@@ -1,15 +1,33 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="UTF-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>FunFacts</title>
-        <link rel="stylesheet" href="./style.css" />
-    </head>
-    <body id="bkgd">
-        <p id="funfact"></p>
-        <p id="description"></p>
 
-        <script src="./content.js"></script>
-    </body>
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>FunFacts</title>
+    <link rel="stylesheet" href="./style.css" />
+</head>
+
+<body id="bkgd">
+
+    <form>
+        <input id="searchBar" type="text" placeholder="Search Google or type a URL">
+        <input id="searchButton" onclick="openTab()">
+    </form>
+
+    <div id="entireFact">
+        <p id="funfact">Adding a new fact</p>
+        <p id="description"></p>
+        <p id="learnMore" onclick="learnMore()">Learn More</p>
+    </div>
+
+    <div id="theCircle"></div>
+
+    <img src="circlecorner-03.png" id="circlecorner" />
+
+
+
+    <script src="./content.js"></script>
+</body>
+
 </html>
