@@ -20,6 +20,10 @@ var funFacts = fetch("./facts.json")
 
         var randomindex = Math.floor(Math.random() * data.length);
         var id = data[randomindex].ID;
+<<<<<<< HEAD
+=======
+        var idsList = ; //list of past ids from local storage
+>>>>>>> 76a5c3e9fdb8ae012ccef6703a1c1cc1641e7787
 
         while ( idsList.includes(id) ) {
             var newrandomindex = Math.floor(Math.random() * data.length);
@@ -38,4 +42,8 @@ var funFacts = fetch("./facts.json")
         if (storageID = data.ID) {
             newFact()
         }
+<<<<<<< HEAD
     });
+=======
+    });
+>>>>>>> 76a5c3e9fdb8ae012ccef6703a1c1cc1641e7787
