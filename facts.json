@@ -1,4 +1,4 @@
-[
+  [
     {
         "ID": 1,
         "Fact": "Banging your head against a wall for one hour burns 150 calories.",
@@ -226,6 +226,658 @@
         "Fact": "Nutmeg is a hallucinogen.",
         "Image": "https://www.thefactsite.com/wp-content/uploads/2019/12/nutmeg-hallucinogen.jpg",
         "Explanation": "If you ingest nutmeg in large doses, it works like a hallucinogen due to a natural compound in it called myristicin. It has mind-altering effects if taken in large doses."
-    }
+    },
+
+{
+       "ID":35,
+       "Fact": "Scotland's National Animal",
+       "Image": "https://images.unsplash.com/photo-1574607407517-cd664b1504f5?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1267&q=80",
+       "Explanation": "Scotland’s National Animal is the Unicorn because it symbolizes purity, innocences, and power"
+
+
+   },
+
+{
+       "ID":36,
+       "Fact": "Honey never spoils",
+       "Image": "https://images.unsplash.com/photo-1589485046718-89eb9eccc9f7?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+       "Explanation": "Honey never spoils. It has an excellent chemical composition which prevents organisms from living in it"
+
+   },
+   {
+
+
+
+       "ID":37,
+
+
+       "Fact": "A group of ferrets is known as a business",
+
+
+       "Image": "https://images.unsplash.com/photo-1551148408-9b3cc5e1add6?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=752&q=80",
+
+
+       "Explanation": "More commonly spelt as busy-ness it came from the middle ages where it was supposed to represent the characteristics of a ferret"
+
+
+   },
+
+{
+
+       "ID":38,
+
+
+       "Fact": "Cheetahs can’t roar",
+
+
+       "Image": "https://images.unsplash.com/photo-1559545132-b5a59fe71b10?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+
+
+       "Explanation": "Cheetahs can’t roar. They make a sound more similar to a house cat"
+
+
+   },
+
+{
+
+       "ID":39,
+
+
+       "Fact": "Ikea’s catalog is as popular as the Bible",
+
+
+       "Image": "https:https://images.pexels.com/photos/1797405/pexels-photo-1797405.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+
+
+       "Explanation": "More than 203 million copies of the catalog are distributed around the globe."
+
+
+   },
+
+
+{
+       "ID":40,
+
+
+       "Fact": "Nintendo began as a card game business",
+
+
+       "Image": "https://images.pexels.com/photos/1462725/pexels-photo-1462725.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+
+
+       "Explanation": "Nintendo was founded more than 100 years ago, in 1889. The Japanese gaming company began operating as a card game business and slowly turned into a brand we know today."
+
+
+   },
+
+{
+
+       "ID":41,
+
+
+       "Fact": "Penguins have knees",
+
+
+       "Image": "https://images.unsplash.com/photo-1520637438573-ee1ba80b2a7f?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTJ8fHBlbmd1aW5zfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+
+
+       "Explanation": "It may not seem like it, but penguins do have knees. The reason why they aren't visible is that penguin's legs are covered by dense feathers."
+
+
+   },
+
+{
+
+       "ID":42,
+
+
+       "Fact": "Clouds are heavy",
+
+
+       "Image": "https://images.pexels.com/photos/2114014/pexels-photo-2114014.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+
+
+       "Explanation": "Clouds may look very lightweight but the science says otherwise. The average cumulus cloud you can see during the sunny day, weight around 500,000 kg (1.1 million pounds)"
+
+
+   },
+
+{
+
+       "ID":43,
+
+
+       "Fact": "Peanut is not a nut",
+
+
+       "Image": "https://images.pexels.com/photos/209345/pexels-photo-209345.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+
+
+       "Explanation": "While the name may suggest otherwise, peanuts are not nuts. In fact they are legumes and belong to the same plant family as lentils and beans, etc."
+
+
+   },
+
+{
+
+       "ID":44,
+
+
+       "Fact": "Rhino’s horn is made up of keratin",
+
+
+       "Image": "https://images.pexels.com/photos/677974/pexels-photo-677974.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+
+
+       "Explanation": "Rhino's horn is made of keratin, the same protein substance that makes up the human nail."
+
+
+   },
+{
+
+
+       "ID":45,
+
+
+       "Fact": "Taco Bell is the best Mexican Restaurant",
+
+
+       "Image": "https://images.pexels.com/photos/2105237/pexels-photo-2105237.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+
+
+       "Explanation": "In 2018 Taco Bell was voted as the best Mexican restaurant in America."
+
+
+   },
+{
+
+
+       "ID":46,
+
+
+       "Fact": "Stop signs used to be yellow",
+
+
+       "Image": "https://images.unsplash.com/photo-1504025158266-200c9a37f4bb?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTR8fHN0b3AlMjBzaWdufGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+
+
+       "Explanation": " stop signs were yellow because they thought that would grab drivers' attention. They'd also considered red, but there was no dye available at the time that wouldn't eventually fade. By 1954, however, sign makers had access to fade-resistant porcelain enamel, and could finally start making stop signs the red color we recognize today."
+
+
+   },
+
+{
+
+       "ID":47,
+
+
+       "Fact": "Squirrels forget where they hide about half of their nuts.",
+        "Image": "https://images.unsplash.com/photo-1521211852827-880f1bc43f35?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80",
+
+
+       "Explanation": "While not all squirrels bury their nuts, the ones that do only recover around 26% of their nuts."
+
+
+   },
+
+{
+
+       "ID":48,
+       "Fact": "First Frog Fossil from Antarctica Found",
+       "Image": "https://images.unsplash.com/photo-1499114794761-d2743d4eb6f2?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80",
+       "Explanation": "In Early April 2020, scientists uncovered Antarctica’s first frog fossil. This fossil may help scientists learn when the South Pole froze. About 90 million years ago, Antarctica was a thriving rainforest before it froze. The fossilized frog is to be dated from roughly 40 million years ago. "
+
+
+   },
+
+{
+
+       "ID":49,
+       "Fact": "Baked beans are not actually baked.",
+       "Image": "https://images.unsplash.com/photo-1564894809611-1742fc40ed80?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1502&q=80",
+       "Explanation": "In the U.K., the dish is usually stewed in sauce. On the other hand, canned baked beans are cooked through a steaming process. Bottom line? “Baked” beans are rarely ever baked."
+
+
+   },
+{
+
+
+       "ID":50,
+       "Fact": "The world's largest pyramid isn't in Egypt.",
+       "Image": "https://images.unsplash.com/photo-1512813389649-acb9131ced20?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80",
+       "Explanation": "The Great Pyramid of Cholula, located in Cholula, Puebla, Mexico, is the largest pyramid in the world and—with a base four times the size of the Great Pyramid of Giza—also happens to be the largest monument ever constructed. Part of the reason it's not better known is that it's partially buried under a mountain."
+
+
+   },
+{
+
+
+       "ID":51,
+       "Fact": "Yes, you can smell rain.",
+       "Image": "https://images.pexels.com/photos/166360/pexels-photo-166360.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+       "Explanation": "Weather patterns produce distinct smells, and one of these is a lightly pungent scent of ozone that springs from fertilizers and can be carried in a thunderstorm's downdrafts from higher altitudes, alerting those with sensitive noses that the rain is about to fall."
+
+
+   },
+{
+
+
+       "ID":52,
+       "Fact": "Water bottle expiration dates are for the bottle, not the water.",
+       "Image": "https://images.unsplash.com/photo-1523362628745-0c100150b504?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1786&q=80",
+       "Explanation": "After a while, the plastic will start leaching into the liquid."
+
+
+   },
+
+{
+
+       "ID":53,
+       "Fact": "The cracking sound your joints make is the sound of gases being released.",
+       "Image": "https://images.unsplash.com/photo-1497906939010-746643734b27?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1778&q=80",
+       "Explanation": "Some people love it and some people hate it, but what is it that makes joint cracking so loud? When joints are stretched, the pockets of gas that get trapped between them are released. When these bubbles of oxygen, nitrogen, and carbon dioxide escape, they might make a popping or cracking noise. "
+
+
+   },
+
+{
+
+       "ID":54,
+       "Fact": "Winnie the Pooh was actually a girl.",
+       "Image": "https://images.pexels.com/photos/33159/child-autumn-bear-leaves.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+       "Explanation": "He is a “he” in the books and cartoons, but it turns out that the character was inspired by a real, female bear, called Winnipeg or Winnie."
+
+
+   },
+
+{
+
+       "ID":55,
+
+
+       "Fact": "You’re physically unable to swallow and breathe at the same time.",
+
+
+       "Image": "https://images.pexels.com/photos/3771836/pexels-photo-3771836.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+
+
+       "Explanation": "It’s probably best you don’t try it."
+
+
+   },
+
+{
+
+       "ID":56,
+
+
+       "Fact": "Your Brain Starts to Deteriorate at Age 27",
+
+
+       "Image": "https://images.pexels.com/photos/5337806/pexels-photo-5337806.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+
+
+       "Explanation": "In 2009, researchers at the University of Virginia tested the cognitive skills of over 2,000 participants ranging in age from 18 to 60. The results revealed that 22-year-olds had the best cognitive abilities and that scores generally began to drop off in people older than 27. From the study, the researchers concluded that some aspects of age-related cognitive decline begin in healthy adults when they’re in their late 20s."
+
+
+   },
+{
+
+
+       "ID":57,
+
+
+       "Fact": "It's illegal to own only one guinea pig in Switzerland.",
+
+
+       "Image": "https://images.unsplash.com/photo-1548767797-d8c844163c4c?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1502&q=80",
+
+
+       "Explanation": "In this alpine country, it's the more the merrier when it comes to guinea pigs. Because the squeaking rodents are herd animals, they can get severely depressed when all alone. "
+
+
+   },
+
+{
+
+       "ID":58,
+
+
+       "Fact": "Male students at Brigham Young University in Utah need special permission to grow a beard.",
+
+
+       "Image": "https://images.unsplash.com/photo-1579540252588-da0ee883560d?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80",
+
+
+       "Explanation": "Until 2015, it was against school policy for any student to grow a beard. Now, the guidelines have been adjusted to allow people with medical conditions, actors who need a beard for a role, and certain religious people to grow a beard if absolutely necessary."
+
+
+   },
+{
+
+
+       "ID":59,
+       "Fact": "The 20th of March is Snowman Burning Day.",
+       "Image": "https://images.unsplash.com/photo-1549778927-fe4755ee38ba?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1502&q=80",
+       "Explanation": "This strange holiday was spawned by American and Swiss citizens to symbolize the end of the winter season."
+
+
+   },
+{
+
+
+
+       "ID":60,
+       "Fact": "You can always 'see' your nose.",
+       "Image": "https://images.pexels.com/photos/792994/pexels-photo-792994.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+       "Explanation": "The human brain is capable of amazing things, but in order to do those things, it needs to block out distractions through a process called unconscious selective attention. The nose is one of those distractions."
+
+
+   },
+{
+
+
+       "ID":61,
+       "Fact": "And trees weren't always biodegradable.",
+       "Image": "https://images.pexels.com/photos/1683974/pexels-photo-1683974.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+       "Explanation": "Today, bacteria and fungi eat away at fallen trees, but that wasn't always the case. Bacteria had to evolve to eat wood, so hundreds of millions of years go, trees would fall at death, leaving large piles of dead wood. Forest fires of unimaginable proportions would burn the massive mounds of dead wood. And that's where most of the coal today on Earth came from, according to National Geographic."
+
+
+   },
+{
+
+
+       "ID":62,
+
+
+       "Fact": "There is an immortal jellyfish.",
+
+
+       "Image": "https://images.pexels.com/photos/2399543/pexels-photo-2399543.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+
+
+       "Explanation": "When it's an adult, the 'Immortal Jellyfish,'' scientifically named Turritopsis dohrnii, can transform its cells back to its childhood state. This usually happens when it is physically harmed, sick, or even when it is starving. The jellyfish evolved this skill in order to survive throughout history, specifically when latching onto ships. Since it can hitchhike, its DNA has spread and the not-so-rare species is emerging all over the world."
+
+
+   },
+{
+
+
+       "ID":63,
+
+
+       "Fact": "Baby blue whales grow 200 pounds per day.",
+
+
+       "Image": "https://images.pexels.com/photos/831084/pexels-photo-831084.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+
+
+       "Explanation": "Blue Whale calves grow 200 pounds per day for the first year they are alive. They can move at a brisk pace of five miles per hour when fully grown, but can get up to 20 miles per hour if need be. They can also hear up to 1,000 miles away in the ocean."
+
+
+   },
+
+{
+
+       "ID":64,
+
+
+       "Fact": "The word 'hipster' goes all the way back to the 1930s.",
+
+
+       "Image": "https://images.pexels.com/photos/567449/pexels-photo-567449.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+
+
+       "Explanation": "While 'hipster' is used these days to describe someone who tries (perhaps too hard) to be stylish and trendy, the term is actually much older. According to Dictionary.com, the word was originally used (along with the similar "hepster") in the 1930s to refer to someone in the jazz scene."
+
+
+   },
+{
+
+
+       "ID":65,
+
+
+       "Fact": "The Twitter bird's official name Is Larry.",
+
+
+       "Image": "https://images.pexels.com/photos/58639/pexels-photo-58639.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+
+
+       "Explanation": "If you truly want to be among the savviest social media users out there, you should know that the Twitter bird has an official name: Larry the Bird (yes, like Larry Bird, the former pro basketball player who played for Twitter co-founder Biz Stone's home team, the Boston Celtics)."
+
+
+   },
+
+{
+
+       "ID":66,
+
+
+       "Fact": "Tornados used to be called 'twirlblasts' and 'twirlwinds' in the 18th century.",
+
+
+       "Image": "https://images.pexels.com/photos/1446076/pexels-photo-1446076.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+
+
+       "Explanation": "If you lived in the 18th century, you might have referred to tornados using the words 'twirlblast' or 'twirlwind.' Honestly, we might need to bring these back!"
+
+
+   },
+{
+
+
+       "ID":67,
+
+
+       "Fact": "McRib sandwiches contain about 70 ingredients.",
+
+
+       "Image": "https://images.pexels.com/photos/139681/pexels-photo-139681.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+
+
+       "Explanation": "The McDonald's McRib is a popular choice for fast-food lovers, but those who indulge in the saucy sandwiches might want to be aware of the fact that they're made with a lengthy list of ingredients. According to Time, the McRib contains 70 ingredients, 34 of which are in the bun alone."
+
+
+   },
+{
+
+
+       "ID":68,
+
+
+       "Fact": "Cows kill more Americans each year than sharks do.",
+
+
+       "Image": "https://images.pexels.com/photos/422218/pexels-photo-422218.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+
+
+       "Explanation": "While sharks account for about 53 bites per year, only one of those ends up being fatal. Cows, on the other hand (or hoof), kill around 20 people per year."
+
+
+   },
+
+{
+
+       "ID":69,
+
+
+       "Fact": "Newborns don't have kneecaps",
+
+
+       "Image": "https://images.pexels.com/photos/789786/pexels-photo-789786.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+
+
+       "Explanation": "This belief is only a half truth, as babies actually technically do have kneecaps when they are born. Those knees just aren't hardened yet, and remain soft cartilage throughout their childhood until they eventually turn into bone."
+
+
+   },
+{
+
+
+       "ID":70,
+
+
+       "Fact": "The majority of Americans choose dogs over love.",
+
+
+       "Image": "https://images.pexels.com/photos/1108099/pexels-photo-1108099.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+
+
+       "Explanation": "Dogs have been known for the longest time as man's best friend, but Americans are increasingly taking that to a new level. A 2017 study from Rover.com conducted over three years found that 54 percent of dog owners are willing to end a relationship if their pup doesn't like their partner."
+
+
+   },
+
+{
+
+       "ID":71,
+
+
+       "Fact": "Dogs like squeaky toys for a dark reason.",
+
+
+       "Image": "https://images.unsplash.com/photo-1598918024863-32a2650da6d5?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80",
+
+
+       "Explanation": "Ever wonder why your little puppy obsesses over those squeaky toys? Because dogs are descendants of wolves whose instincts include hunting smaller animals. The sound a squeaky toy makes is very similar to the sound a small animal makes when being hunted. When Ol' Lassie hears that, she gets excited because of these killer survival skills."
+
+
+   },
+{
+
+
+       "ID":72,
+
+
+       "Fact": "Most people break up on Mondays.",
+
+
+       "Image": "https://images.pexels.com/photos/984949/pexels-photo-984949.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+
+
+       "Explanation": "Searching through public Facebook data, Lee Byron and David McCandless found that relationships statuses changed for the worse two weeks before Christmas, around Easter, and on Mondays. Though this data may be somewhat misleading, as people might not be live-updating their breakups, it shows an obvious trend."
+
+
+   },
+{
+
+
+       "ID":73,
+       "Fact": "There may be 2,000 active serial killers in the U.S. right now.",
+       "Image": "https://images.pexels.com/photos/923681/pexels-photo-923681.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+       "Explanation": "Thomas Hargrove has been archiving homicides for years through his Murder Accountability Project. Through his experience, he came up with an algorithm that found patterns in recent unsolved murders linked to at least one other murder through DNA. This allowed him to estimate the number of unsolved cases in the U.S. at any given time. According to The New Yorker, he believes that the number of active serial killers in the U.S. is around 2,000."
+
+
+   },
+
+{
+
+       "ID":74,
+       "Fact": "Some cats are allergic to people.",
+       "Image": "https://images.pexels.com/photos/1056251/pexels-photo-1056251.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+       "Explanation": "FYI for all you people allergic to cats: they might be allergic to you, too! It's pretty uncommon due to the fact that we bathe ourselves more often than other species and don't shed as much hair or dead skin, but yes, it does happen."
+
+
+   },
+{
+
+
+       "ID":75,
+       "Fact": "Apple Pie isn't actually American at all.",
+       "Image": "https://images.pexels.com/photos/989704/pexels-photo-989704.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+       "Explanation": "The next time you call something 'as American as apple pie,'' you might want to consider the fact that neither apple pies nor apples originally came from America. Apples are in fact native to Asia, and the first recorded recipe for apple pie was actually written in England."
+
+   },
+{
+
+
+       "ID":76,
+       "Fact": "M&M stands for Mars and Murrie.",
+       "Image": "https://images.pexels.com/photos/65547/pexels-photo-65547.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+       "Explanation": "Forrest Mars (son of the Mars Company founder) first spotted the British confection Smarties during the Spanish Civil War and noticed the candy shell prevented the chocolate from melting. He teamed up with Bruce Murrie (son of Hershey Chocolate's president) and the company later trademarked the "Melts in Your Mouth, Not in Your Hand" slogan."
+
+
+   },
+
+{
+
+       "ID":77,
+       "Fact": "A baby puffin is called a 'puffling.'",
+       "Image": "https://images.pexels.com/photos/2860571/pexels-photo-2860571.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+       "Explanation": "To feed its chick, a puffin parent will carry around 10 fish in its beak at one time, but the biggest recorded haul is a whopping 62 fish, according to Audubon Project Puffin."
+
+
+   },
+{
+
+
+       "ID":78,
+       "Fact": "You can major in wine at Cornell University.",
+       "Image": "https://images.pexels.com/photos/3365553/pexels-photo-3365553.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+       "Explanation": "Technically it's a degree in 'Viticulture and Enology' (a.k.a. the cultivation of grapes and the science of winemaking), but we're still sending in our applications."
+
+
+   },
+
+
+{
+       "ID":79,
+       "Fact": "If Facebook was a country, it would have 1 billion more people than China.",
+       "Image": "https://images.pexels.com/photos/744464/pexels-photo-744464.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+       "Explanation": "At 2.45 billion monthly users, Facebook overshadows China's (1.4 billion) and India's (1.3 billion) populations. Even Instagram has three times as many people as the U.S. now."
+
+
+   },
+
+{
+
+       "ID":80,
+       "Fact": "Armadillo shells are bulletproof",
+       "Image": "https://images.unsplash.com/photo-1589897397760-9eb1dd2f3091?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1225&q=80",
+       "Explanation": "In fact, one Texas man was hospitalized when a bullet he shot at an armadillo ricocheted off the animal and hit him in the jaw."
+
+
+   },
+
+
+{
+       "ID":81,
+       "Fact": "That tiny pocket in jeans was designed to store pocket watches",
+       "Image": "https://images.pexels.com/photos/1082528/pexels-photo-1082528.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+       "Explanation": "The original jeans only had four pockets: that tiny one, plus two more on the front and just one in the back."
+
+
+   },
+
+
+{
+       "ID":82,
+       "Fact": "Bananas grow upside-down",
+       "Image": "https://images.pexels.com/photos/214158/pexels-photo-214158.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+       "Explanation": "Or technically, we peel them upside-down. These random facts will have you eating fruit differently. Naturally, they grow outward from their stems, but that means their bottoms actually face the sky. As they get bigger, the fruits turn toward the sun, forming that distinctive curve. "
+
+
+   },
+
+{
+
+       "ID":83,
+       "Fact": "Theodore Roosevelt had a pet hyena",
+       "Image": "https://images.unsplash.com/photo-1509568602828-9442e3cc81aa?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80",
+       "Explanation": "Its name was Bill and was a present from the Ethiopian emperor. Roosevelt was famous for his many pets, including a one-legged rooster, a badger, a pony, and a small bear."
+
+
+   },
+{
+       "ID":84,
+       "Fact": "Medical errors are a top cause of death",
+       "Image": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1778&q=80",
+       "Explanation": "According to a Johns Hopkins research team, 250,000 deaths in the United States are caused by medical error each year. This makes medical error the third-leading cause of deaths in the country."
+
+
+   },
+
+
 
 ]
