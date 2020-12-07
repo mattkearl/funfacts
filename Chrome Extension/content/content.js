@@ -65,16 +65,6 @@ function allStorage() {
     return archive; 
 }
 
-let input = document.querySelector(‘input’);
-
-input.addEventListener(“keyup”,  (e) => {
-	if(e.keyCode === 13) {
-document.getElementById(“searchBar”).submit();
-		return false;
-}
-}) 
-
-
 // function learnMore() {
 //     var fact = document.getElementById("funfact").innerHTML;
 //     console.log(fact)
