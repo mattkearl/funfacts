@@ -65,6 +65,8 @@ function allStorage() {
     return archive; 
 }
 
+document.getElementById("learnMore").addEventListener("click", learnMore);
+
 function learnMore() {
     document.getElementById("searchBar").innerHTML = "";
     var fact = document.getElementById("funfact").innerHTML;
