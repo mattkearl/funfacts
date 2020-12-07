@@ -65,19 +65,18 @@ function allStorage() {
     return archive; 
 }
 
-// function learnMore() {
-//     var fact = document.getElementById("funfact").innerHTML;
-//     console.log(fact)
-//     document.getElementById("searchBar").setAttribute('value', fact);
-//     document.getElementById("searchBar").focus()
-//     var input = document.getElementById("searchBar")
-//     var val = input.value;
-//     input.value = '';
-//     input.value = val;
-//     document.getElementById("searchButton").click()
+function learnMore() {
+    document.getElementById("searchBar").innerHTML = "";
+    var fact = document.getElementById("funfact").innerHTML;
+    document.getElementById("searchBar").setAttribute('value', fact);
+    document.getElementById("searchBar").focus()
+    var input = document.getElementById("searchBar")
+    var val = input.value;
+    input.value = '';
+    input.value = val;
     
     
-// }
+}
 
 // function openTab() {
 //     var search = document.getElementById("searchBar");
@@ -90,7 +89,7 @@ function allStorage() {
 //         var url = "https://www.google.com/search?q=";
 //         var query = document.getElementById("funfact").innerHTML;
 //         var res = encodeURI(query);
-//         window.open(url+res);
+//         window.event(url+res);
 //     });
     
 
