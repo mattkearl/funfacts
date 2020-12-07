@@ -22,13 +22,14 @@
 function retrieveFunFacts(){
     chrome.runtime.sendMessage({command: "fetch", data: {}}, response =>{
         var funfacts = response.data;
-        console.log("funfacts: ", funfacts)
+        console.log("funfacts: ", funfacts.length)
 
         var archive = allStorage();
         console.log("archive: ", archive);
 
-        if ( archive.length > 32 ) {
+        if ( archive.length >= funfacts.length ) {
             localStorage.clear();
+            retrieveFunFacts();
         }
 
         var randomindex = Math.floor(Math.random() * funfacts.length);
