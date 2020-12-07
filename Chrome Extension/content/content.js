@@ -76,7 +76,7 @@ function learnMore() {
     var val = input.value;
     input.value = '';
     input.value = val;
-    
+    document.getElementById("searchButton").click()
     
 }
 
