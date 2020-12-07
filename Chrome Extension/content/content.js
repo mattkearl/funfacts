@@ -65,35 +65,35 @@ function allStorage() {
     return archive; 
 }
 
-function learnMore() {
-    var fact = document.getElementById("funfact").innerHTML;
-    console.log(fact)
-    document.getElementById("searchBar").setAttribute('value', fact);
-    document.getElementById("searchBar").focus()
-    var input = document.getElementById("searchBar")
-    var val = input.value;
-    input.value = '';
-    input.value = val;
-    document.getElementById("searchButton").click()
+// function learnMore() {
+//     var fact = document.getElementById("funfact").innerHTML;
+//     console.log(fact)
+//     document.getElementById("searchBar").setAttribute('value', fact);
+//     document.getElementById("searchBar").focus()
+//     var input = document.getElementById("searchBar")
+//     var val = input.value;
+//     input.value = '';
+//     input.value = val;
+//     document.getElementById("searchButton").click()
     
     
-}
+// }
 
-function openTab() {
-    var search = document.getElementById("searchBar");
+// function openTab() {
+//     var search = document.getElementById("searchBar");
     
-    search.addEventListener("keyup", function(event) {
-        if (event.keyCode === 13) {
-            event.preventDefault();
-            document.getElementById("searchBar").click();
-        }
-        var url = "https://www.google.com/search?q=";
-        var query = document.getElementById("funfact").innerHTML;
-        var res = encodeURI(query);
-        window.open(url+res);
-    });
+//     search.addEventListener("keyup", function(event) {
+//         if (event.keyCode === 13) {
+//             event.preventDefault();
+//             document.getElementById("searchBar").click();
+//         }
+//         var url = "https://www.google.com/search?q=";
+//         var query = document.getElementById("funfact").innerHTML;
+//         var res = encodeURI(query);
+//         window.open(url+res);
+//     });
     
 
-}
+// }
 
 retrieveFunFacts()
