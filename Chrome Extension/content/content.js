@@ -79,21 +79,21 @@ function learnMore() {
     
 }
 
-function openTab() {
-    var search = document.getElementById("searchBar");
+// function openTab() {
+//     var search = document.getElementById("searchBar");
     
-    search.addEventListener("keyup", function(event) {
-        if (event.keyCode === 13) {
-            event.preventDefault();
-            document.getElementById("searchBar").click();
-        }
-        var url = "https://www.google.com/search?q=";
-        var query = document.getElementById("funfact").innerHTML;
-        var res = encodeURI(query);
-        window.open(url+res);
-    });
+//     search.addEventListener("keyup", function(event) {
+//         if (event.keyCode === 13) {
+//             event.preventDefault();
+//             document.getElementById("searchBar").click();
+//         }
+//         var url = "https://www.google.com/search?q=";
+//         var query = document.getElementById("funfact").innerHTML;
+//         var res = encodeURI(query);
+//         window.open(url+res);
+//     });
     
 
-}
+// }
 
 retrieveFunFacts()
