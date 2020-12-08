@@ -2,7 +2,7 @@
     "manifest_version": 2,
     "name": "FunFacts",
     "version": "0.0.2",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "description": "Fun random facts about history, technology, science, culture, and more, with pictures! Features: Fun Fact, Image, Google Search Bar",
     "chrome_url_overrides": {
         "newtab": "index.html"
